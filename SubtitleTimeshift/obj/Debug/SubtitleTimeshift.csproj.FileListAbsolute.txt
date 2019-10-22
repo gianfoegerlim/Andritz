@@ -1,0 +1,12 @@
+C:\Users\gian\Desktop\teste\graph\SubtitleTimeshift\bin\Debug\SubtitleTimeshift.dll
+C:\Users\gian\Desktop\teste\graph\SubtitleTimeshift\bin\Debug\SubtitleTimeshift.pdb
+C:\Users\gian\Desktop\teste\graph\SubtitleTimeshift\obj\Debug\SubtitleTimeshift.csprojAssemblyReference.cache
+C:\Users\gian\Desktop\teste\graph\SubtitleTimeshift\obj\Debug\SubtitleTimeshift.csproj.CoreCompileInputs.cache
+C:\Users\gian\Desktop\teste\graph\SubtitleTimeshift\obj\Debug\SubtitleTimeshift.dll
+C:\Users\gian\Desktop\teste\graph\SubtitleTimeshift\obj\Debug\SubtitleTimeshift.pdb
+C:\Users\gian\Desktop\andritz\graph\SubtitleTimeshift\bin\Debug\SubtitleTimeshift.dll
+C:\Users\gian\Desktop\andritz\graph\SubtitleTimeshift\bin\Debug\SubtitleTimeshift.pdb
+C:\Users\gian\Desktop\andritz\graph\SubtitleTimeshift\obj\Debug\SubtitleTimeshift.csprojAssemblyReference.cache
+C:\Users\gian\Desktop\andritz\graph\SubtitleTimeshift\obj\Debug\SubtitleTimeshift.csproj.CoreCompileInputs.cache
+C:\Users\gian\Desktop\andritz\graph\SubtitleTimeshift\obj\Debug\SubtitleTimeshift.dll
+C:\Users\gian\Desktop\andritz\graph\SubtitleTimeshift\obj\Debug\SubtitleTimeshift.pdb

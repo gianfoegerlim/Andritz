@@ -1,0 +1,12 @@
+C:\Users\gian\Desktop\teste\graph\Graph\bin\Debug\Graph.dll
+C:\Users\gian\Desktop\teste\graph\Graph\bin\Debug\Graph.pdb
+C:\Users\gian\Desktop\teste\graph\Graph\obj\Debug\Graph.csprojAssemblyReference.cache
+C:\Users\gian\Desktop\teste\graph\Graph\obj\Debug\Graph.csproj.CoreCompileInputs.cache
+C:\Users\gian\Desktop\teste\graph\Graph\obj\Debug\Graph.dll
+C:\Users\gian\Desktop\teste\graph\Graph\obj\Debug\Graph.pdb
+C:\Users\gian\Desktop\andritz\graph\Graph\bin\Debug\Graph.dll
+C:\Users\gian\Desktop\andritz\graph\Graph\bin\Debug\Graph.pdb
+C:\Users\gian\Desktop\andritz\graph\Graph\obj\Debug\Graph.csprojAssemblyReference.cache
+C:\Users\gian\Desktop\andritz\graph\Graph\obj\Debug\Graph.csproj.CoreCompileInputs.cache
+C:\Users\gian\Desktop\andritz\graph\Graph\obj\Debug\Graph.dll
+C:\Users\gian\Desktop\andritz\graph\Graph\obj\Debug\Graph.pdb
