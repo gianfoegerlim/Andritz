@@ -12,6 +12,7 @@ namespace SubtitleTimeshift.Tests
         [TestMethod]
         async public Task TestShiftSubtitle()
         {
+            //esse é correto
             var inputPath = "The.Matrix.1999.BluRay.720p.Malay.srt";
             var outputPath = "The.Matrix.1999.BluRay.720p.Malay - Copy.srt";
             var assertPath = "The.Matrix.1999.BluRay.720p.Malay - Assert.srt";
